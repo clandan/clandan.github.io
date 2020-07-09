@@ -1,8 +1,8 @@
 # Doloria
-Wiki page for my homebrew D&amp;D setting
+A homebrew D&amp;D setting
 
-https://dean-l.github.io/doloria/
+Originally forked on 10/5/20 from 
+https://github.com/dean-l/doloria
 
 Based around Just The Docs
-
 https://github.com/pmarsceill/just-the-docs
