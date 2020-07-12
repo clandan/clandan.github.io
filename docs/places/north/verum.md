@@ -1,7 +1,7 @@
 ---
 layout: map
 title: Verum
-map: '/doloria/img/Verum.svg'
+map: '/img/Verum.svg'
 map_height: 523
 map_width: 577
 parent: Northern Doloria

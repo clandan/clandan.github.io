@@ -8,7 +8,7 @@ nav_order: 1
 
 # The Hounds
 
-![](/doloria/img/hounds.png)
+![](/img/hounds.png)
 
 The Royal Hounds and Hunters of the Duchy of Clemens, more commonly referred to as simply The Hounds is an organisation of hunters and trackers working closely with the Triumvirate to pursue and capture outlawed mages for trial.
 

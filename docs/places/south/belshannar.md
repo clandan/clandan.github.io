@@ -8,7 +8,7 @@ nav_order: 1
 
 # Bel'Shanaar
 
-![](/doloria/img/belshanaar.jpg)
+![](/img/belshanaar.jpg)
 
 The slender towers of the High Elven city Bel’Shanaar rise effortlessly from the cliffs, grazing the ever-present mist of the Aenarion mountain range. Graceful arches swoop from spire to spire, their faintly rose-hued stonework marbled with gold and silver.
 

@@ -8,7 +8,7 @@ nav_order: 5
 
 # Bashnya
 
-![](/doloria/img/bashnya.jpg)
+![](/img/bashnya.jpg)
 
 Bashnya is a town situated in the foothills north of Verum. Originally settled by barbarian raiders, it grew to prominence as a stronghold and, later on, for its religious significance as Helena Dolor’s birthplace.
 

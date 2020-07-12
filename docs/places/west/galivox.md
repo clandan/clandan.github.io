@@ -8,7 +8,7 @@ nav_order: 1
 
 # Galivox
 
-![](/doloria/img/galivox.jpg)
+![](/img/galivox.jpg)
 
 Galivox is an underground settlement on the Broken Coast and the largest Gnomish community in Doloria.
 

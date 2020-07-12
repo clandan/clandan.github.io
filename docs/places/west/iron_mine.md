@@ -8,7 +8,7 @@ nav_order: 1
 
 # The Iron Mine
 
-![](/doloria/img/iron_mine.jpg)
+![](/img/iron_mine.jpg)
 
 Once a profitable iron mine as the name suggests, it was re-purposed as a prison for outlaws and dangerous criminals. The long tunnels and solid stone pathways provided a perfect framework to resist the increasing power of magic in offenders. More powerful mages are kept in the lower levels of the prison, where some report voices calling from even further down. Judgement was built directly above to facilitate the easier transfer of the convicted and move possible threats of escapees away from Verum
 
